@@ -58,3 +58,6 @@ html {
 .el-menu {
   width: 100%;
 }
+.el-main .el-table {
+  line-height: 23px;
+}
